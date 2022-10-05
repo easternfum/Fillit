@@ -4,4 +4,5 @@ The project is about finding the smallest possible square for the Tetris blocks 
 Partner with skesuma.
 
 How to run:
+
 git clone and run 'make'.
